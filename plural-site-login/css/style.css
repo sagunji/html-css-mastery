@@ -1,0 +1,56 @@
+.marketing-banner .text {
+  width: 100%;
+  color: rgba(255, 255, 255, 0.95);
+  font-size: 48px;
+  margin-bottom: 24px;
+}
+
+.marketing-banner a {
+  display: inline-flex;
+  padding: 5px 20px;
+  border: 1px solid #fff;
+  text-decoration: none;
+}
+
+.marketing-banner a span{
+  font-size: 20px;
+  color: #fff;
+}
+
+.signin-form form div label {
+  display: flex;
+  font-size: 16px;
+  color: #fff;
+  padding-bottom: 10px;
+}
+
+.input-appearance {
+  color: rgba(255, 255, 255, 0.95);
+  background: rgb(13, 15, 18);
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.3);
+  border-image: initial;
+}
+
+.other-links a {
+  display: flex;
+  text-decoration: none;
+  width: 100%;
+  color: #0084bd;
+  font-size: 16px;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  padding: 5px 5px;
+}
+
+footer div a {
+  padding: 1px 5px;
+  color: hsla(0,0%,100%,.65);
+  text-decoration: none;
+}
+
+.bor-right {
+  border-right: 1px solid;
+}
