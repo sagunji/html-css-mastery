@@ -29,6 +29,12 @@
 	margin-top: 40px;
 }
 
+.action button {
+	background-color: transparent;
+	border: none;
+	cursor: pointer;
+}
+
 .action img {
 	height: 16px;
 }
