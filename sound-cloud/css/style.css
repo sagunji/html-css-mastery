@@ -18,7 +18,10 @@
 
 .music .main h1{
   font-size: 14px;
-  color: #d6d6d6;
+	color: #d6d6d6;
+	line-height: 20px;
+	text-overflow: ellipsis;
+	overflow: hidden;
 }
 
 .music .wrapper {
@@ -34,7 +37,6 @@
 	border: none;
 	cursor: pointer;
 	outline:none;
-
 }
 
 .action img {
