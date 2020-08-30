@@ -1,0 +1,39 @@
+.spotlight {
+	color: #afaeae;
+	padding: 5px 0px;
+}
+
+.featured h1 {
+	color: #d6d6d6;
+	padding: 5px 0px;
+	margin-bottom: 20px;
+}
+
+.music .main .artist {
+  color: #afaeae;
+	font-size: 12px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+.music .main h1{
+  font-size: 14px;
+  color: #d6d6d6;
+}
+
+.music .wrapper {
+	background-color: #1d1e1f;
+}
+
+.actions {
+	margin-top: 40px;
+}
+
+.action img {
+	height: 16px;
+}
+
+.music-length {
+	color: #afaeae;
+	margin-left: 10px;
+}
